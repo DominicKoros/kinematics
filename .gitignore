@@ -1,0 +1,47 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio files
+.vs/
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj.user
+*.vcproj.*
+*.vcxproj.*
+*.vcxproj.filters
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeLists.txt.user
+cmake_install.cmake
+install_manifest.txt
+
+# Build output directories
+Debug/
+Release/
+x64/
+x86/
